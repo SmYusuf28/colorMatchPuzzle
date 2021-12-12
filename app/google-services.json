@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191798601430",
+    "project_id": "groottask",
+    "storage_bucket": "groottask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191798601430:android:38cff2eba8198d74fdcb77",
+        "android_client_info": {
+          "package_name": "com.smy.grootcodetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191798601430-0ciikbkpn9ic18if3vp2oah1odvqc927.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDC52m89qffyBBI_mBr12W6lMpnSfSyew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191798601430-0ciikbkpn9ic18if3vp2oah1odvqc927.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

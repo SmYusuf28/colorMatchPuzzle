@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GrootCodeTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">password</string>
+    <string name="email">Email</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="red">red</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+
+</resources>
